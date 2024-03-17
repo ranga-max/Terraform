@@ -1,0 +1,13 @@
+/awsfull/*.tfstate
+/awsfull/*.tfstate.backup
+/awsfull/*.tfvars
+/awsfull/*.json
+/awsfull/.terraform/*
+/awsfull/.*
+/awslight/*.tfstate
+/awslight/*.tfstate.backup
+/awslight/*.tfvars
+/awslight/*.json
+/awslight/.terraform/*
+/awslight/.*
+
