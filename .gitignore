@@ -10,4 +10,15 @@
 /awslight/*.json
 /awslight/.terraform/*
 /awslight/.*
-
+/awstf/*.tfstate
+/awstf/*.tfstate.backup
+/awstf/*.tfvars
+/awstf/*.json
+/awstf/.terraform/*
+/awstf/.*
+/azuretf/*.tfstate
+/azuretf/*.tfstate.backup
+/azuretf/*.tfvars
+/azuretf/*.json
+/azuretf/.terraform/*
+/azuretf/.*
