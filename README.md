@@ -8,7 +8,7 @@ Terraform Scripts
 *terraform destroy* <br>
 *terraform show* <br>
 *terraform state list* <br>
-*terraform plan | grep <resource> | grep id * <br>
-*terraform state rm <resource> * <br>
+*terraform plan | grep <resource> | grep id* <br>
+*terraform state rm <resource>* <br>
 *terraform destroy* <br>
-*terraform import <resource> <ID> *
+*terraform import <resource> <ID>*
