@@ -3,6 +3,7 @@ Terraform Scripts
 
 *terraform init* <br>
 *terraform plan* <br>
+*terraform plan -target=module.<declared module name>*
 *terraform apply* <br>
 *terraform output* <br>
 *terraform destroy* <br>
